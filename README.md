@@ -39,7 +39,7 @@ pip install vosk websockets
 
 Run the server:
 ```bash
-python vosk_ws.py
+python3 vosk_ws.py
 ```
 
 The server will:
