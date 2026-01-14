@@ -1,0 +1,26 @@
+# Vosk model files (too large for git)
+vosk-model-small-en-us-0.15/
+vosk-model-small-en-us-0.15.zip
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
