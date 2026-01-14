@@ -4,16 +4,16 @@ WebSocket server for speech recognition using Vosk speech recognition library.
 
 ## Model
 
-This server uses **vosk-model-small-en-us-0.15** - a small English (US) speech recognition model.
+This server uses **vosk-model-en-in-0.5** - an English (Indian) speech recognition model.
 
-- **Model Name**: vosk-model-small-en-us-0.15
-- **Language**: English (US)
-- **Size**: Small model (suitable for real-time processing)
-- **Version**: 0.15
+- **Model Name**: vosk-model-en-in-0.5
+- **Language**: English (Indian)
+- **Size**: Medium model (suitable for real-time processing)
+- **Version**: 0.5
 
 ### Model Location
 
-The model should be placed in the same directory as the script or in the working directory where the script is run. The model directory name should be: `vosk-model-small-en-us-0.15`
+The model should be placed in the same directory as the script or in the working directory where the script is run. The model directory name should be: `vosk-model-en-in-0.5`
 
 ## Audio Format Requirements
 

@@ -13,7 +13,7 @@ from vosk import Model, KaldiRecognizer
 # Load the Vosk speech recognition model
 # Model expects 16kHz mono 16-bit PCM audio
 print("Loading Vosk model...")
-model = Model("vosk-model-small-en-us-0.15")
+model = Model("vosk-model-en-in-0.5")
 print("Model loaded successfully")
 
 

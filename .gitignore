@@ -1,7 +1,8 @@
 # Vosk model files (too large for git)
 vosk-model-small-en-us-0.15/
 vosk-model-small-en-us-0.15.zip
-
+vosk-model-en-in-0.5/
+vosk-model-en-in-0.5.zip
 # Python cache files
 __pycache__/
 *.py[cod]
