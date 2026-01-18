@@ -1,0 +1,7 @@
+services:
+  vosk-server:
+    build: .
+    container_name: vosk-websocket-server
+    ports:
+      - "2700:2700"
+    restart: unless-stopped
